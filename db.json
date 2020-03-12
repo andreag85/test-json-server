@@ -3,27 +3,22 @@
     "status": true,
     "message": "",
     "data": {
-      "date_server": "2017-10-13T09:57:21.000Z",
-      "endpoint": [
+      "date_server": "2020-03-10T09:57:21.000Z",
+      "endpoints": [
         {
           "name": "URL_ENDPOINT",
-          "url": "https://www.ciociariaoggi.it/2/api_app/init",
-          "last_update": "2017-10-13T09:57:17.000Z"
-        },
-        {
-          "name": "URL_LAST_UPDATE",
-          "url": "https://www.ciociariaoggi.it/2/api_app/lastUpdate",
-          "last_update": "2017-10-13T09:57:15.000Z"
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/endpoint",
+          "last_update": "2020-03-10T09:57:17.000Z"
         },
         {
           "name": "URL_REGISTRATION",
-          "url": "https://www.trovaofferte.com/w/api_app/register",
-          "last_update": "2017-10-13T09:57:16.000Z"
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/register",
+          "last_update": "2020-03-10T09:57:16.000Z"
         },
         {
           "name": "URL_UPDATE",
-          "url": "https://www.ciociariaoggi.it/2/api_app/version",
-          "last_update": "2017-10-13T09:57:21.000Z"
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/version",
+          "last_update": "2020-03-10T09:57:21.000Z"
         }
       ]
     }
