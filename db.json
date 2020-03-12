@@ -1,29 +1,31 @@
 {
-   "status":true,
-   "message":"",
-   "data":{
-      "date_server":"2017-10-13T09:57:21.000Z",
-      "endpoint":[
-         {
-            "name":"URL_ENDPOINT",
-            "url":"https://www.ciociariaoggi.it/2/api_app/init",
-            "last_update":"2017-10-13T09:57:17.000Z"
-         },
-         {
-            "name":"URL_LAST_UPDATE",
-            "url":"https://www.ciociariaoggi.it/2/api_app/lastUpdate",
-            "last_update":"2017-10-13T09:57:15.000Z"
-         },
-         {
-            "name":"URL_REGISTRATION",
-            "url":"https://www.trovaofferte.com/w/api_app/register",
-            "last_update":"2017-10-13T09:57:16.000Z"
-         },
-         {
-            "name":"URL_UPDATE",
-            "url":"https://www.ciociariaoggi.it/2/api_app/version",
-            "last_update":"2017-10-13T09:57:21.000Z"
-         }
+  "endpoint": {
+    "status": true,
+    "message": "",
+    "data": {
+      "date_server": "2017-10-13T09:57:21.000Z",
+      "endpoint": [
+        {
+          "name": "URL_ENDPOINT",
+          "url": "https://www.ciociariaoggi.it/2/api_app/init",
+          "last_update": "2017-10-13T09:57:17.000Z"
+        },
+        {
+          "name": "URL_LAST_UPDATE",
+          "url": "https://www.ciociariaoggi.it/2/api_app/lastUpdate",
+          "last_update": "2017-10-13T09:57:15.000Z"
+        },
+        {
+          "name": "URL_REGISTRATION",
+          "url": "https://www.trovaofferte.com/w/api_app/register",
+          "last_update": "2017-10-13T09:57:16.000Z"
+        },
+        {
+          "name": "URL_UPDATE",
+          "url": "https://www.ciociariaoggi.it/2/api_app/version",
+          "last_update": "2017-10-13T09:57:21.000Z"
+        }
       ]
-   }
+    }
+  }
 }
