@@ -8,17 +8,23 @@
         {
           "name": "URL_ENDPOINT",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/endpoint",
-          "last_update": "2020-03-10T09:57:17.000Z"
+          "last_update": "2020-03-10T09:57:17.000Z",
+          "order" : 1,
+          "async" : false
         },
         {
           "name": "URL_REGISTRATION",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/register",
-          "last_update": "2020-03-10T09:57:16.000Z"
+          "last_update": "2020-03-10T09:57:16.000Z",
+          "order" : 2,
+          "async" : false
         },
         {
           "name": "URL_UPDATE",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/version",
-          "last_update": "2020-03-10T09:57:21.000Z"
+          "last_update": "2020-03-10T09:57:21.000Z",
+          "order" : 3,
+          "async" : true
         }
       ]
     }
