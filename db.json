@@ -28,5 +28,43 @@
         }
       ]
     }
+  },
+  {
+  "configurator": {
+    "status": true,
+    "message": "",
+    "data": {
+      "configurator": [
+        {
+          "id": 1,
+          "type": 1,
+          "titolo": "Titolo 1",
+          "url": "https://www.ciociariaoggi.it/1",
+          "config": {
+            "share": false
+          },
+          "auth": false
+        },
+        {
+          "id": 2,
+          "type": 2,
+          "titolo": "Titolo 2",
+          "url": "https://www.ciociariaoggi.it/2",
+          "config": {
+            "cell": 2
+          },
+          "auth": true
+        },
+        {
+          "id": 3,
+          "type": 3,
+          "titolo": "Titolo 3",
+          "url": "https://www.ciociariaoggi.it/3",
+          "config": {},
+          "auth": false
+        }
+      ]
+    }
   }
+}
 }
