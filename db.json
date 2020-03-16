@@ -64,5 +64,58 @@
         }
       ]
     }
+  },
+  "menu": {
+    "status": true,
+    "message": "",
+    "data": {
+      "menu": [
+        {
+          "id": 1,
+          "type": 1,
+          "title": "Titolo 1",
+          "text_color": "000000",
+          "icon_url": "www.url.it/icon",
+          "icon": "fa-home",
+          "icon_color": "ffffff",
+          "bold": false,
+          "background_color": "124367",
+          "order": 1,
+          "url": "www.ciociariaoggi.it/url1",
+          "configurator": 1,
+          "parent": 0
+        },
+        {
+          "id": 2,
+          "type": 3,
+          "title": "Titolo 2",
+          "text_color": "000435",
+          "icon_url": "www.url.it/icon2",
+          "icon": "fa-circle",
+          "icon_color": "fff00f",
+          "bold": true,
+          "background_color": "124467",
+          "order": 2,
+          "url": "",
+          "configurator": 0,
+          "parent": 0
+        },
+        {
+          "id": 3,
+          "type": 1,
+          "title": "sub 1",
+          "text_color": "ff0000",
+          "icon_url": "www.url.it/icon3",
+          "icon": "fa-home",
+          "icon_color": "00ffff",
+          "bold": false,
+          "background_color": "12ffff",
+          "order": 1,
+          "url": "www.ciociariaoggi.it/url3",
+          "configurator": 2,
+          "parent": 2
+        }
+      ]
+    }
   }
 }
