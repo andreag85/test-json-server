@@ -29,7 +29,6 @@
       ]
     }
   },
-  {
   "configurator": {
     "status": true,
     "message": "",
@@ -66,5 +65,4 @@
       ]
     }
   }
-}
 }
