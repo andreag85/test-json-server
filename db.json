@@ -95,15 +95,15 @@
             "ca-app-pub-8521638380159517/2324842837"
           ]
         }
+      },
+      "config": {
+        "push_sound": "",
+        "category": [],
+        "zone": [],
+        "app": {
+          "darkmode": true
+        }
       }
-    }
-  },
-  "config": {
-    "push_sound": "",
-    "category": [],
-    "zone": [],
-    "app": {
-      "darkmode": true
     }
   },
   "menu": {
