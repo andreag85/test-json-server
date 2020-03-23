@@ -71,8 +71,7 @@
     "data": {
       "init": 
         {
-          "waitEndpointToStart": false,
-          "retryNetworkCallValue": 2
+          "waitEndpointToStart": false
         }
     }
   },
