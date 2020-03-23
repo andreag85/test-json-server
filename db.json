@@ -65,6 +65,17 @@
       ]
     }
   },
+  "init": {
+    "status": true,
+    "message": "",
+    "data": {
+      "init": 
+        {
+          "waitEndpointToStart": false,
+          "retryNetworkCallValue": 2
+        }
+    }
+  },
   "menu": {
     "status": true,
     "message": "",
