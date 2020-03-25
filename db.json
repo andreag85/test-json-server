@@ -10,21 +10,16 @@
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/endpoint",
           "last_update": "2020-03-18T11:51:24+00:00",
           "order": 1,
-          "async": false
+          "async": false,
+          "always":false
         },
         {
-          "name": "URL_REGISTRATION",
-          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/register",
-          "last_update": "2020-03-18T11:51:24+00:00",
+          "name": "URL_INIT",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/init",
+          "last_update": "2020-03-25T11:51:24+00:00",
           "order": 2,
-          "async": false
-        },
-        {
-          "name": "URL_UPDATE",
-          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/version",
-          "last_update": "2020-03-18T11:51:24+00:00",
-          "order": 3,
-          "async": true
+          "async": false,
+          "always":true
         }
       ]
     }
