@@ -23,7 +23,7 @@
         },
         {
           "name": "URL_INIT_USER",
-          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/user_init",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/user_init/{appuuid}",
           "last_update": "2020-03-18T11:51:24+00:00",
           "order": 3,
           "async": false,
