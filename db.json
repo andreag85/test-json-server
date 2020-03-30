@@ -11,7 +11,7 @@
           "last_update": "2020-03-18T11:51:24+00:00",
           "order": 1,
           "async": false,
-          "always":false
+          "always": false
         },
         {
           "name": "URL_INIT",
@@ -19,7 +19,55 @@
           "last_update": "2020-03-25T11:51:24+00:00",
           "order": 2,
           "async": false,
-          "always":true
+          "always": true
+        },
+        {
+          "name": "URL_INIT_USER",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/user_init",
+          "last_update": "2020-03-18T11:51:24+00:00",
+          "order": 3,
+          "async": false,
+          "always": true
+        },
+        {
+          "name": "URL_APPREGISTER",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server2/app",
+          "last_update": "2020-03-25T11:51:24+00:00",
+          "order": 4,
+          "async": false,
+          "always": false
+        },
+        {
+          "name": "URL_APP_UPDATE",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server2/app_update",
+          "last_update": "2020-03-18T11:51:24+00:00",
+          "order": 5,
+          "async": false,
+          "always": false
+        },
+        {
+          "name": "URL_CONFIGURATOR",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/configurator",
+          "last_update": "2020-03-25T11:51:24+00:00",
+          "order": 6,
+          "async": false,
+          "always": false
+        },
+        {
+          "name": "URL_MENU",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/menu",
+          "last_update": "2020-03-18T11:51:24+00:00",
+          "order": 7,
+          "async": false,
+          "always": false
+        },
+        {
+          "name": "URL_ADS",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server2/ads",
+          "last_update": "2020-03-25T11:51:24+00:00",
+          "order": 8,
+          "async": false,
+          "always": false
         }
       ]
     }
@@ -83,7 +131,7 @@
             "darkmode": true
           }
         },
-        "menu":[]
+        "menu": []
       }
     }
   },
