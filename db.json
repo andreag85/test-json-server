@@ -113,7 +113,8 @@
     "message": "",
     "data": {
       "init": {
-        "waitEndpointToStart": false
+        "waitEndpointToStart": false,
+        "authNeeded": false
       }
     }
   },
