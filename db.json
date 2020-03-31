@@ -7,8 +7,8 @@
       "endpoints": [
         {
           "name": "URL_ENDPOINT",
-          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/endpointpluto",
-          "last_update": "2020-03-18T11:52:26+00:00",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/endpoint",
+          "last_update": "2020-03-18T11:52:27+00:00",
           "order": 1,
           "async": false,
           "always": false
