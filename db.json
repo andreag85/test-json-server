@@ -56,7 +56,7 @@
         {
           "name": "URL_MENU",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/menu",
-          "last_update": "2020-03-18T11:51:30+00:00",
+          "last_update": "2020-03-18T11:51:31+00:00",
           "order": 7,
           "async": false,
           "always": false
@@ -227,6 +227,21 @@
           "bold": false,
           "background_color": "",
           "order": 6,
+          "url": "www.ciociariaoggi.it/cronaca",
+          "configurator": 3,
+          "parent": 5
+        },
+        {
+          "id": 7,
+          "type": 1,
+          "title": "Test figlio 2",
+          "text_color": "",
+          "icon_url": "",
+          "icon": "",
+          "icon_color": "",
+          "bold": false,
+          "background_color": "",
+          "order": 7,
           "url": "www.ciociariaoggi.it/cronaca",
           "configurator": 3,
           "parent": 5
