@@ -83,7 +83,8 @@
           "title": "Ciociariaoggi news",
           "url": "https://www.ciociariaoggi.it/rss",
           "config": {
-            "share": false
+            "share": false,
+            "onlyCurrentFeedArticles" : true
           },
           "auth": false
         },
