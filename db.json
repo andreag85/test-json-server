@@ -84,7 +84,7 @@
           "url": "https://www.ciociariaoggi.it/rss",
           "config": {
             "share": false,
-            "onlyCurrentFeedArticles" : true
+            "only_current_feed_articles" : true
           },
           "auth": false
         },
