@@ -85,6 +85,7 @@
           "config": {
             "share": false,
             "cell_type": 3,
+            "first_cell": 1,
             "only_current_feed_articles" : true
           },
           "auth": false
