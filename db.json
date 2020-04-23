@@ -118,7 +118,11 @@
       "init": {
         "wait_endpoint_to_start": false,
         "auth_needed": false,
-        "search_url": "https://www.ciociariaoggi.it/ricerca?q="
+        "search_url": "https://www.ciociariaoggi.it/ricerca?q=",
+        "user_agent_prefix": "ciociariaoggi.it",
+        "edicola_digitale_domain": "edicoladigitale.editorialeoggi.info",
+        "edicola_digitale_package": "andr.editorialeoggi.kioskciociaria",
+        "domain": "ciociariaoggi.it"
       }
     }
   },
