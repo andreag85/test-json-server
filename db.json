@@ -116,8 +116,9 @@
     "message": "",
     "data": {
       "init": {
-        "waitEndpointToStart": false,
-        "authNeeded": false
+        "wait_endpoint_to_start": false,
+        "auth_needed": false,
+        "search_url": "https://www.ciociariaoggi.it/ricerca?q="
       }
     }
   },
