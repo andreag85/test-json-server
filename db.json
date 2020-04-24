@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/configurator",
-          "last_update": "2020-03-25T11:51:29+00:00",
+          "last_update": "2020-03-25T11:51:20+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -86,6 +86,7 @@
             "share": false,
             "cell_type": 3,
             "first_cell": 1,
+            "source_type": 1,
             "only_current_feed_articles" : true
           },
           "auth": false
