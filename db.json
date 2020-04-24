@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/configurator",
-          "last_update": "2020-03-25T11:51:20+00:00",
+          "last_update": "2020-03-25T11:51:21+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -56,7 +56,7 @@
         {
           "name": "URL_MENU",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/menu",
-          "last_update": "2020-03-18T11:51:34+00:00",
+          "last_update": "2020-03-18T11:51:35+00:00",
           "order": 7,
           "async": false,
           "always": false
@@ -80,7 +80,7 @@
         {
           "id": 1,
           "type": 1,
-          "title": "Ciociariaoggi news",
+          "title": "topnews",
           "url": "https://www.ciociariaoggi.it/rss",
           "config": {
             "share": false,
@@ -93,13 +93,16 @@
         },
         {
           "id": 2,
-          "type": 2,
-          "title": "Titolo 2",
-          "url": "https://www.ciociariaoggi.it/2",
+          "type": 1,
+          "title": "mynews",
+          "url": "https://sa.ciociariaoggi.it/api/push_to_user.php",
           "config": {
-            "cell": 2
+            "share": false,
+            "cell_type": 3,
+            "first_cell": 1,
+            "source_type": 2
           },
-          "auth": true
+          "auth": false
         },
         {
           "id": 3,
@@ -191,8 +194,8 @@
           "bold": true,
           "background_color": "",
           "order": 3,
-          "url": "https://www.ansa.it/sito/ansait_rss.xml",
-          "configurator": 1,
+          "url": "",
+          "configurator": 2,
           "parent": 0
         },
         {
