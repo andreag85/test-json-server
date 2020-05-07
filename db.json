@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/configurator",
-          "last_update": "2020-03-25T11:51:24+00:00",
+          "last_update": "2020-03-25T11:51:25+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -91,7 +91,6 @@
           "title": "topnews",
           "url": "https://www.ciociariaoggi.it/rss",
           "config": {
-            "share": false,
             "cell_type": 3,
             "first_cell": 1,
             "source_type": 1,
@@ -105,19 +104,42 @@
           "title": "mynews",
           "url": "https://sa.ciociariaoggi.it/api/push_to_user.php",
           "config": {
-            "share": false,
             "cell_type": 2,
             "first_cell": 4,
-            "source_type": 2
+            "source_type": 2,
+            "max_articles": 20,
+            "max_days_articles": 3
           },
           "auth": false
         },
         {
           "id": 3,
           "type": 3,
-          "title": "Titolo 3",
+          "title": "webview",
           "url": "https://www.ciociariaoggi.it/3",
-          "config": {},
+          "config": {
+            "share": true
+          },
+          "auth": false
+        },
+        {
+          "id": 4,
+          "type": 4,
+          "title": "preferenze",
+          "url": "https://www.ciociariaoggi.it/preferenze.php",
+          "config": {
+            "items" : [
+              {
+                "title": "Filtra per tipologia",
+                "preference": "topic"
+              },
+              {
+                "title": "Filtra per zona",
+                "preference": "area",
+                "if_selected": "topic"
+              }
+            ]
+          },
           "auth": false
         }
       ]
