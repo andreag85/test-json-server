@@ -68,6 +68,14 @@
           "order": 8,
           "async": false,
           "always": false
+        },
+        {
+          "name": "URL_PREFERENCES",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server3/preferences",
+          "last_update": "2020-03-25T11:51:24+00:00",
+          "order": 9,
+          "async": false,
+          "always": false
         }
       ]
     }
