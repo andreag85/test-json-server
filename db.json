@@ -125,10 +125,10 @@
         {
           "id": 4,
           "type": 4,
-          "title": "preferenze",
+          "title": "Configura notifiche",
           "url": "https://www.ciociariaoggi.it/preferenze.php",
           "config": {
-            "items" : [
+            "preferences_list" : [
               {
                 "title": "Filtra per tipologia",
                 "preference": "topic"
