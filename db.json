@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/configurator",
-          "last_update": "2020-03-25T11:51:27+00:00",
+          "last_update": "2020-03-25T11:51:28+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -127,7 +127,7 @@
           "id": 4,
           "type": 4,
           "title": "Configura notifiche",
-          "url": "https://www.ciociariaoggi.it/preferenze.php",
+          "url": "http://my-json-server.typicode.com/andreag85/test-json-server/sendPreferences",
           "config": {
             "preferences_list" : [
               {
