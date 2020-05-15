@@ -32,7 +32,7 @@
         {
           "name": "URL_APPREGISTER",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server2/app",
-          "last_update": "2020-03-25T11:51:24+00:00",
+          "last_update": "2020-03-25T11:51:25+00:00",
           "order": 4,
           "async": false,
           "always": false
@@ -156,7 +156,8 @@
         "user_agent_prefix": "ciociariaoggi.it",
         "edicola_digitale_domain": "edicoladigitale.editorialeoggi.info",
         "edicola_digitale_package": "andr.editorialeoggi.kioskciociaria",
-        "domain": "ciociariaoggi.it"
+        "domain": "ciociariaoggi.it",
+        "old_appregister": true
       }
     },
     "message": null
