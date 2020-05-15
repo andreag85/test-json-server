@@ -24,7 +24,7 @@
         {
           "name": "URL_INIT_USER",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/user_init/{appuuid}",
-          "last_update": "2020-03-18T11:51:25+00:00",
+          "last_update": "2020-03-18T11:51:26+00:00",
           "order": 3,
           "async": false,
           "always": true
@@ -129,7 +129,7 @@
           "title": "Configura notifiche",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/sendPreferences",
           "config": {
-            "preferences_list" : [
+            "preferences_list": [
               {
                 "title": "Personalizza le categorie",
                 "preference": "topic"
@@ -170,8 +170,13 @@
         "config": {
           "ads": 334,
           "push_sound": "",
-          "category": [],
-          "zone": [],
+          "preferences": {
+            "topic": [],
+            "area": [
+              19,
+              20
+            ]
+          },
           "app": {
             "darkmode": true
           }
