@@ -48,7 +48,7 @@
         {
           "name": "URL_CONFIGURATOR",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/configurator",
-          "last_update": "2020-03-25T11:51:28+00:00",
+          "last_update": "2020-03-25T11:51:29+00:00",
           "order": 6,
           "async": false,
           "always": false
@@ -56,7 +56,7 @@
         {
           "name": "URL_MENU",
           "url": "http://my-json-server.typicode.com/andreag85/test-json-server/menu",
-          "last_update": "2020-03-18T11:51:40+00:00",
+          "last_update": "2020-03-18T11:51:41+00:00",
           "order": 7,
           "async": false,
           "always": false
@@ -140,6 +140,15 @@
                 "if_selected": "topic"
               }
             ]
+          },
+          "auth": false
+        },
+        {
+          "id": 5,
+          "type": 5,
+          "title": "Impostazioni",
+          "url": "",
+          "config": {
           },
           "auth": false
         }
@@ -313,6 +322,22 @@
           "url": "www.ciociariaoggi.it/cronaca",
           "configurator": 3,
           "parent": 5
+        }
+        ,
+        {
+          "id": 8,
+          "type": 1,
+          "title": "Impostazioni",
+          "text_color": "",
+          "icon_url": "",
+          "icon": "fa.cog",
+          "icon_color": "",
+          "bold": false,
+          "background_color": "",
+          "order": 8,
+          "url": "",
+          "configurator": 5,
+          "parent": 0
         }
       ]
     }
